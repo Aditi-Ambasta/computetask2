@@ -1,2 +1,2 @@
-# computetask2
-javascript code along
+# Whac-a-Mole Game
+javascript game
